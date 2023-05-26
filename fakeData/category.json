@@ -1,0 +1,65 @@
+
+   [
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "name": "Gordon Ramsay",
+        "picture": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/auerkzys/e39034b0-562f-4923-b4d9-3334f5f9d828.jpg",
+        "years_of_experience": 30,
+        "num_recipes": 150,
+        "likes": 1000000,
+        "category__id": 1,
+        "description": "Gordon Ramsay is a British chef, restaurateur, and television personality. He has a reputation for being tough and demanding, both in the kitchen and on his TV shows, but he is also highly respected for his culinary skills and knowledge."
+      },
+      {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "name": "Jamie Oliver",
+        "picture": "https://advice.hosco.com/wp-content/uploads/2021/10/Untitled-design-29.png",
+        "years_of_experience": 25,
+        "num_recipes": 200,
+        "likes": 750000,
+        "category__id": 2,
+        "description": "Jamie Oliver is a British chef, restaurateur, and television personality. He is known for his focus on using fresh, healthy ingredients and promoting healthy eating, as well as his work advocating for better food education in schools."
+      },
+      {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "name": "Nigella Lawson",
+        "picture": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+        "years_of_experience": 20,
+        "num_recipes": 100,
+        "likes": 500000,
+        "category__id":3,
+        "description": "Nigella Lawson is a British food writer, journalist, and television personality. She is known for her easy, approachable recipes and her focus on comfort food and home cooking."
+      },
+      {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "name": "Anthony Bourdain",
+        "picture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+        "years_of_experience": 15,
+        "num_recipes": 75,
+        "likes": 250000,
+        "category__id": 4,
+        "description": "Anthony Bourdain was an American chef, author, and television personality. He was known for his adventurous spirit and his love of exploring different cultures through their food."
+      },
+      {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "name": "Emeril Lagasse",
+        "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVfgXGUpnKDj7NSRObNfps-ZUmpv26J693AA&usqp=CAU&fbclid=IwAR0LRU86-MMqyzEI1Oq-omA37HpAOeOSh1u_bqIbCyoNw_gV9aMSAlvVjpA",
+        "years_of_experience": 25,
+        "num_recipes": 120,
+        "likes": 500000,
+        "category__id": 5,
+        "description": "Emeril Lagasse is an American chef, restaurateur, and television personality. He is known for his expertise in Cajun and Creole cuisine, as well as his signature catchphrase, 'Bam!'"
+      },
+      {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "name": "Ina Garten",
+        "picture": "https://i.ibb.co/k1jSyC0/woman-chef-cooking-vegetables-pan.jpg",
+        "years_of_experience": 15,
+        "num_recipes": 90,
+        "likes": 350000,
+        "category__id": 6,
+        "description": "Ina Garten is an American chef, author, and television personality. She is known for her focus on simple, elegant dishes and her emphasis on using fresh, high-quality ingredients."
+      }
+    ]
+
+  

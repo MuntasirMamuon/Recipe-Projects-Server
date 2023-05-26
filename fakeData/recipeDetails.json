@@ -1,0 +1,504 @@
+
+ [
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "name": "Gordon Ramsay",
+    "picture": "https://popmenucloud.com/cdn-cgi/image/width%3D1200%2Cheight%3D1200%2Cfit%3Dscale-down%2Cformat%3Dauto%2Cquality%3D60/auerkzys/e39034b0-562f-4923-b4d9-3334f5f9d828.jpg",
+    "years_of_experience": 30,
+    "num_recipes": 150,
+    "likes": 100000,
+    "category__id": 1,
+    "description": "Gordon Ramsay is a British chef, restaurateur, and television personality. He has a reputation for being tough and demanding, both in the kitchen and on his TV shows, but he is also highly respected for his culinary skills and knowledge.",
+
+    "recipes": [
+      {
+        "recipe_name": "Beef Wellington",
+        "ingredients": [
+
+          "1 lb beef tenderloin",
+          "8 oz mushrooms",
+          "1 tbsp dijon mustard",
+          "2 sheets puff pastry",
+          "1 egg"
+        ],
+        "cooking_method": [
+        
+          "Preheat oven to 425 degrees F.",
+          "Season the beef with salt and pepper, and sear in a hot pan until browned on all sides.",
+          "Puree the mushrooms in a food processor until finely chopped.",
+          "In the same pan used to sear the beef, cook the mushroom puree until all the moisture has evaporated.",
+          "Spread dijon mustard over the beef and then cover the beef with the mushroom mixture."
+        ],
+        "rating": 4.9,
+        "favorite": false
+      },
+      {
+        "recipe_name": "Beef Burger",
+        "ingredients": [
+ 
+          "1 lb ground beef",
+          "1 tbsp worcestershire sauce",
+          "1 tbsp dijon mustard",
+          "1 egg",
+          "1/2 cup breadcrumbs"
+        ],
+        "cooking_method": [
+
+          "Combine all ingredients in a large bowl and mix well.",
+          "Divide the mixture into four equal parts and shape into patties.",
+          "Grill the patties for about 5-6 minutes on each side or until fully cooked.",
+          "Serve on a toasted bun with your desired toppings.",
+          "Bake for 25-30 minutes or until the potatoes are golden brown."
+        ],
+        "rating": 4.6,
+        "favorite": false
+      },
+      {
+        "recipe_name": "Shepherd's Pie",
+        "ingredients": [
+ 
+          "1 lb ground beef",
+          "1 onion, chopped",
+          "2 carrots, chopped",
+          "2 tbsp tomato paste",
+          "1 cup beef stock",
+          "4 cups mashed potatoes"
+        ],
+        "cooking_method": [
+ 
+          "Preheat the oven to 350 degrees F.",
+          "Brown the ground beef in a large skillet over medium-high heat.",
+          "Add the onions and carrots and cook until softened.",
+          "Add tomato paste and beef stock and bring to a simmer.",
+          "Transfer the mixture to a baking dish and spread the mashed potatoes on top."
+        ],
+        "rating": 4.3,
+        "favorite": false
+      }
+    ]
+  },
+
+
+
+
+
+
+    
+  
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "name": "Jamie Oliver",
+    "picture": "https://advice.hosco.com/wp-content/uploads/2021/10/Untitled-design-29.png",
+    "years_of_experience": 25,
+    "num_recipes": 200,
+    "likes": 750000,
+    "category__id": 2,
+    "description": "Jamie Oliver is a British chef, restaurateur, and television personality. He is known for his focus on using fresh, healthy ingredients and promoting healthy eating, as well as his work advocating for better food education in schools.",
+
+    "recipes": [
+      {
+        "recipe_name": "Beef Wellington",
+        "ingredients": [
+
+          "1 lb beef tenderloin",
+          "8 oz mushrooms",
+          "1 tbsp dijon mustard",
+          "2 sheets puff pastry",
+          "1 egg"
+        ],
+        "cooking_method": [
+
+          "Preheat oven to 425 degrees F.",
+          "Season the beef with salt and pepper, and sear in a hot pan until browned on all sides.",
+          "Puree the mushrooms in a food processor until finely chopped.",
+          "In the same pan used to sear the beef, cook the mushroom puree until all the moisture has evaporated.",
+          "Spread dijon mustard over the beef and then cover the beef with the mushroom mixture."
+        ],
+        "rating": 4.9,
+        "favorite": false
+      },
+      {
+        "recipe_name": "Beef Burger",
+        "ingredients": [
+
+          "1 lb ground beef",
+          "1 tbsp worcestershire sauce",
+          "1 tbsp dijon mustard",
+          "1 egg",
+          "1/2 cup breadcrumbs"
+        ],
+        "cooking_method": [
+
+          "Combine all ingredients in a large bowl and mix well.",
+          "Divide the mixture into four equal parts and shape into patties.",
+          "Grill the patties for about 5-6 minutes on each side or until fully cooked.",
+          "Serve on a toasted bun with your desired toppings.",
+          "Bake for 25-30 minutes or until the potatoes are golden brown."
+        ],
+        "rating": 4.6,
+        "favorite": false
+      },
+      {
+        "recipe_name": "Shepherd's Pie",
+        "ingredients": [
+
+          "1 lb ground beef",
+          "1 onion, chopped",
+          "2 carrots, chopped",
+          "2 tbsp tomato paste",
+          "1 cup beef stock",
+          "4 cups mashed potatoes"
+        ],
+        "cooking_method": [
+
+          "Preheat the oven to 350 degrees F.",
+          "Brown the ground beef in a large skillet over medium-high heat.",
+          "Add the onions and carrots and cook until softened.",
+          "Add tomato paste and beef stock and bring to a simmer.",
+          "Transfer the mixture to a baking dish and spread the mashed potatoes on top."
+        ],
+        "rating": 4.3,
+        "favorite": false
+      }
+    ]
+  },
+
+
+
+
+
+  
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "name": "Nigella Lawson",
+    "picture": "https://nationaltoday.com/wp-content/uploads/2021/07/shutterstock_1518533924-min.jpg",
+    "years_of_experience": 20,
+    "num_recipes": 100,
+    "likes": 500000,
+    "category__id": 3,
+    "description": "Nigella Lawson is a British food writer, journalist, and television personality. She is known for her easy, approachable recipes and her focus on comfort food and home cooking.",
+
+    "recipes": [
+      {
+        "recipe_name": "Beef Wellington",
+        "ingredients": [
+        
+          "1 lb beef tenderloin",
+          "8 oz mushrooms",
+          "1 tbsp dijon mustard",
+          "2 sheets puff pastry",
+          "1 egg"
+        ],
+        "cooking_method": [
+          
+          "Preheat oven to 425 degrees F.",
+          "Season the beef with salt and pepper, and sear in a hot pan until browned on all sides.",
+          "Puree the mushrooms in a food processor until finely chopped.",
+          "In the same pan used to sear the beef, cook the mushroom puree until all the moisture has evaporated.",
+          "Spread dijon mustard over the beef and then cover the beef with the mushroom mixture."
+        ],
+        "rating": 4.9,
+        "favorite": false
+      },
+      {
+        "recipe_name": "Beef Burger",
+        "ingredients": [
+
+          "1 lb ground beef",
+          "1 tbsp worcestershire sauce",
+          "1 tbsp dijon mustard",
+          "1 egg",
+          "1/2 cup breadcrumbs"
+        ],
+        "cooking_method": [
+
+          "Combine all ingredients in a large bowl and mix well.",
+          "Divide the mixture into four equal parts and shape into patties.",
+          "Grill the patties for about 5-6 minutes on each side or until fully cooked.",
+          "Serve on a toasted bun with your desired toppings.",
+          "Bake for 25-30 minutes or until the potatoes are golden brown."
+        ],
+        "rating": 4.6,
+        "favorite": false
+      },
+      {
+        "recipe_name": "Shepherd's Pie",
+        "ingredients": [
+
+          "1 lb ground beef",
+          "1 onion, chopped",
+          "2 carrots, chopped",
+          "2 tbsp tomato paste",
+          "1 cup beef stock",
+          "4 cups mashed potatoes"
+        ],
+        "cooking_method": [
+      
+          "Preheat the oven to 350 degrees F.",
+          "Brown the ground beef in a large skillet over medium-high heat.",
+          "Add the onions and carrots and cook until softened.",
+          "Add tomato paste and beef stock and bring to a simmer.",
+          "Transfer the mixture to a baking dish and spread the mashed potatoes on top."
+        ],
+        "rating": 4.3,
+        "favorite": false
+      }
+    ]
+  },
+
+
+
+
+
+
+
+ 
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "name": "Anthony Bourdain",
+    "picture": "https://www.eatthis.com/wp-content/uploads/sites/4/2020/05/chef-cooking.jpg?quality=82&strip=1",
+    "years_of_experience": 15,
+    "num_recipes": 75,
+    "likes": 250000,
+    "category__id": 4,
+    "description": "Anthony Bourdain was an American chef, author, and television personality. He was known for his adventurous spirit and his love of exploring different cultures through their food.",
+
+    "recipes": [
+      {
+        "recipe_name": "Beef Wellington",
+        "ingredients": [
+
+          "1 lb beef tenderloin",
+          "8 oz mushrooms",
+          "1 tbsp dijon mustard",
+          "2 sheets puff pastry",
+          "1 egg"
+        ],
+        "cooking_method": [
+
+          "Preheat oven to 425 degrees F.",
+          "Season the beef with salt and pepper, and sear in a hot pan until browned on all sides.",
+          "Puree the mushrooms in a food processor until finely chopped.",
+          "In the same pan used to sear the beef, cook the mushroom puree until all the moisture has evaporated.",
+          "Spread dijon mustard over the beef and then cover the beef with the mushroom mixture."
+        ],
+        "rating": 4.9,
+        "favorite": false
+      },
+      {
+        "recipe_name": "Beef Burger",
+        "ingredients": [
+
+          "1 lb ground beef",
+          "1 tbsp worcestershire sauce",
+          "1 tbsp dijon mustard",
+          "1 egg",
+          "1/2 cup breadcrumbs"
+        ],
+        "cooking_method": [
+
+          "Combine all ingredients in a large bowl and mix well.",
+          "Divide the mixture into four equal parts and shape into patties.",
+          "Grill the patties for about 5-6 minutes on each side or until fully cooked.",
+          "Serve on a toasted bun with your desired toppings.",
+          "Brush with a beaten egg and bake in the oven for 20-25 minutes."
+        ],
+        "rating": 4.6,
+        "favorite": false
+      },
+      {
+        "recipe_name": "Shepherd's Pie",
+        "ingredients": [
+
+          "1 lb ground beef",
+          "1 onion, chopped",
+          "2 carrots, chopped",
+          "2 tbsp tomato paste",
+          "1 cup beef stock",
+          "4 cups mashed potatoes"
+        ],
+        "cooking_method": [
+    
+          "Preheat the oven to 350 degrees F.",
+          "Brown the ground beef in a large skillet over medium-high heat.",
+          "Add the onions and carrots and cook until softened.",
+          "Add tomato paste and beef stock and bring to a simmer.",
+          "Transfer the mixture to a baking dish and spread the mashed potatoes on top."
+        ],
+        "rating": 4.3,
+        "favorite": false
+      }
+    ]
+  },
+
+
+
+
+
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "name": "Emeril Lagasse",
+    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVfgXGUpnKDj7NSRObNfps-ZUmpv26J693AA&usqp=CAU&fbclid=IwAR0LRU86-MMqyzEI1Oq-omA37HpAOeOSh1u_bqIbCyoNw_gV9aMSAlvVjpA",
+    "years_of_experience": 25,
+    "num_recipes": 120,
+    "likes": 500000,
+    "category__id": 5,
+    "description": "Emeril Lagasse is an American chef, restaurateur, and television personality. He is known for his expertise in Cajun and Creole cuisine, as well as his signature catchphrase, 'Bam!'",
+    "recipes": [
+      {
+        "recipe_name": "Beef Wellington",
+        "ingredients": [
+
+          "1 lb beef tenderloin",
+          "8 oz mushrooms",
+          "1 tbsp dijon mustard",
+          "2 sheets puff pastry",
+          "1 egg"
+        ],
+        "cooking_method": [
+   
+          "Preheat oven to 425 degrees F.",
+          "Season the beef with salt and pepper, and sear in a hot pan until browned on all sides.",
+          "Puree the mushrooms in a food processor until finely chopped.",
+          "In the same pan used to sear the beef, cook the mushroom puree until all the moisture has evaporated.",
+          "Spread dijon mustard over the beef and then cover the beef with the mushroom mixture."
+         
+        ],
+        "rating": 4.9,
+        "favorite": false
+      },
+      {
+        "recipe_name": "Beef Burger",
+        "ingredients": [
+
+          "1 lb ground beef",
+          "1 tbsp worcestershire sauce",
+          "1 tbsp dijon mustard",
+          "1 egg",
+          "1/2 cup breadcrumbs"
+        ],
+        "cooking_method": [
+
+          "Combine all ingredients in a large bowl and mix well.",
+          "Divide the mixture into four equal parts and shape into patties.",
+          "Grill the patties for about 5-6 minutes on each side or until fully cooked.",
+          "Serve on a toasted bun with your desired toppings.",
+          "Roll out the puff pastry and wrap the beef in it, sealing the edges."
+          
+        ],
+        "rating": 4.6,
+        "favorite": false
+      },
+      {
+        "recipe_name": "Shepherd's Pie",
+        "ingredients": [
+
+          "1 lb ground beef",
+          "1 onion, chopped",
+          "2 carrots, chopped",
+          "2 tbsp tomato paste",
+          "1 cup beef stock",
+          "4 cups mashed potatoes"
+        ],
+        "cooking_method": [
+         
+          "Preheat the oven to 350 degrees F.",
+          "Brown the ground beef in a large skillet over medium-high heat.",
+          "Add the onions and carrots and cook until softened.",
+          "Add tomato paste and beef stock and bring to a simmer.",
+          "Transfer the mixture to a baking dish and spread the mashed potatoes on top."
+         
+        ],
+        "rating": 4.3,
+        "favorite": false
+      }
+    ]
+  },
+
+
+
+
+  
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "name": "Ina Garten",
+    "picture": "https://i.ibb.co/k1jSyC0/woman-chef-cooking-vegetables-pan.jpg",
+    "years_of_experience": 15,
+    "num_recipes": 90,
+    "likes": 350000,
+    "category__id": 6,
+    "description": "Ina Garten is an American chef, author, and television personality. She is known for her focus on simple, elegant dishes and her emphasis on using fresh, high-quality ingredients.",
+    "recipes": [
+      {
+        "recipe_name": "Beef Wellington",
+        "ingredients": [
+      
+          "1 lb beef tenderloin",
+          "8 oz mushrooms",
+          "1 tbsp dijon mustard",
+          "2 sheets puff pastry",
+          "1 egg"
+        ],
+        "cooking_method": [
+
+          "Preheat oven to 425 degrees F.",
+          "Season the beef with salt and pepper, and sear in a hot pan until browned on all sides.",
+          "Puree the mushrooms in a food processor until finely chopped.",
+          "In the same pan used to sear the beef, cook the mushroom puree until all the moisture has evaporated.",
+          "Spread dijon mustard over the beef and then cover the beef with the mushroom mixture."
+          
+        ],
+        "rating": 4.9,
+        "favorite": false
+      },
+      {
+        "recipe_name": "Beef Burger",
+        "ingredients": [
+        
+          "1 lb ground beef",
+          "1 tbsp worcestershire sauce",
+          "1 tbsp dijon mustard",
+          "1 egg",
+          "1/2 cup breadcrumbs"
+        ],
+        "cooking_method": [
+  
+          "Combine all ingredients in a large bowl and mix well.",
+          "Divide the mixture into four equal parts and shape into patties.",
+          "Grill the patties for about 5-6 minutes on each side or until fully cooked.",
+          "Serve on a toasted bun with your desired toppings.",
+          "Bake for 25-30 minutes or until the potatoes are golden brown."
+        ],
+        "rating": 4.6,
+        "favorite": false
+      },
+      {
+        "recipe_name": "Shepherd's Pie",
+        "ingredients": [
+
+          "1 lb ground beef",
+          "1 onion, chopped",
+          "2 carrots, chopped",
+          "2 tbsp tomato paste",
+          "1 cup beef stock",
+          "4 cups mashed potatoes"
+        ],
+        "cooking_method": [
+
+          "Preheat the oven to 350 degrees F.",
+          "Brown the ground beef in a large skillet over medium-high heat.",
+          "Add the onions and carrots and cook until softened.",
+          "Add tomato paste and beef stock and bring to a simmer.",
+          "Transfer the mixture to a baking dish and spread the mashed potatoes on top."
+        ],
+        "rating": 4.3,
+        "favorite": false
+      }
+    ]
+  }
+
+
+
+
+  
+]
